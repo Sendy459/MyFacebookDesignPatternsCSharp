@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyFacebookDesignPatternsCSharp
 Facebook like Simulation in C# showcasing practical implementations of design patterns 
 
@@ -14,7 +13,3 @@ To run the solution:
 3. Same as step 2, but this time for the UI namespace.
 
 4. Change the build configuration from "Any CPU" to "x64" right next to START, and then click START.
-=======
-# Sendy459-Sendy459-MyFacebookDesignPatternsCSharp
-Facebook like Simulation in C# showcasing practical implementations of design patterns 
->>>>>>> 4373af716a675c97bfebc76506e21d803e57bc7b
